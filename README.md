@@ -23,3 +23,8 @@
 > Se nos despegara una lista con los autores de los libros consultados anteriormente, nos mostrara su año de nacimiento y su año de fallecimiento.
 
 >  Es importante que los datos de los libros consultados se guarden en la base de datos para que se puedan mostrar los autores.
+
+### Consultar autores de un año específico
+> En el menú seleccionaremos la opción 4 que es "Consultar autores de un año específico"
+
+> Escribimos el año y si encuentra a algún autor lo mostrara, sino mostrara un mensaje que dice "no se encontro"
